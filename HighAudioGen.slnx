@@ -1,0 +1,23 @@
+<Solution>
+  <Folder Name="/Analysis/">
+    <Project Path="Analysis/HighAudioGen.Analysis.csproj" />
+  </Folder>
+  <Folder Name="/AudioEngine/">
+    <Project Path="AudioEngine/HighAudioGen.AudioEngine.csproj" />
+  </Folder>
+  <Folder Name="/Codecs/">
+    <Project Path="Codecs/HighAudioGen.Codecs.csproj" />
+  </Folder>
+  <Folder Name="/Core/">
+    <Project Path="Core/HighAudioGen.Core.csproj" />
+  </Folder>
+  <Folder Name="/Desktop/">
+    <Project Path="Desktop/HighAudioGen.Desktop.csproj" />
+  </Folder>
+  <Folder Name="/SDK/">
+    <Project Path="SDK/HighAudioGen.SDK.csproj" />
+  </Folder>
+  <Folder Name="/Tests/">
+    <Project Path="Tests/HighAudioGen.Tests.csproj" />
+  </Folder>
+</Solution>
